@@ -1,0 +1,19 @@
+{
+  "name": "bitcoinlatte",
+  "version": "1.0.0",
+  "description": "Bitcoin Latte is an example directory using AngularJS and Firebase.",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "directory",
+    "angularjs",
+    "firebase"
+  ],
+  "author": "Anthony Ettinger <anthony@chovy.com> (http://chovy.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "angularfire": "^0.9.0"
+  }
+}
